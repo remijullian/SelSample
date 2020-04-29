@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12729" started-at="2019-07-12T06:12:16Z" finished-at="2019-07-12T06:12:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12729" started-at="2019-07-12T06:12:16Z" finished-at="2019-07-12T06:12:29Z">
+      <class name="DriverInterfaceRef">
+        <test-method status="PASS" signature="launch()[pri:0, instance:DriverInterfaceRef@6d4b1c02]" name="launch" duration-ms="12702" started-at="2019-07-12T06:12:16Z" finished-at="2019-07-12T06:12:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+      </class> <!-- DriverInterfaceRef -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
