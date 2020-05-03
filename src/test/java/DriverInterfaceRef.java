@@ -29,6 +29,7 @@ String browser = "Mozilla";
 	}
 		
 	driver.get("http://google.co.in");
+	System.out.println(driver.getTitle());
 	driver.close();
 	}
 
